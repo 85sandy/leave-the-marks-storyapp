@@ -1,0 +1,23 @@
+{
+  "name": "leave-the-marks",
+  "version": "1.0.0",
+  "description": "leave the marks",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "storyapp"
+  ],
+  "author": "sandhya",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^1.0.2",
+    "body-parser": "^1.17.1",
+    "chalk": "^1.1.3",
+    "ejs": "^2.5.6",
+    "express": "^4.15.2",
+    "express-session": "^1.15.2",
+    "mongoose": "4.1.9"
+  }
+}
